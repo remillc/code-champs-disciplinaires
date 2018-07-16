@@ -1,0 +1,39 @@
+{
+	keys: [{
+		"key": "amenagement",
+		"label": "Aménagement"
+	}, {
+		"key": "anthropologie-demographie-sociologie",
+		"label": "Anthropologie, démographie, sociologie"
+	}, {
+		"key": "art-cinema-musique",
+		"label": "Art, cinéma, musique"
+	}, {
+		"key": "communication-sciences-information",
+		"label": "Communication, sciences de l'information"
+	}, {
+		"key": "criminologie-psychologie-travail-social",
+		"label": "Criminologie, psychologie, travail social"
+	}, {
+		"key": "droit",
+		"label": "Droit"
+	}, {
+		"key": "economie-politique-relations-industrielles",
+		"label": "Économie, politique, relations industrielles"
+	}, {
+		"key": "histoire-philosophie-religions",
+		"label": "Histoire, philosophie, religions"
+	}, {
+		"key": "informatique-mathematique-sciences-nature",
+		"label": "Informatique, mathématiques, sciences de la nature"
+	}, {
+		"key": "langues-litteratures",
+		"label": "Langues et littératures"
+	}, {
+		"key": "psychoeducation-sciences-education",
+		"label": "Psychoéducation, sciences de l'éducation"
+	}, {
+		"key": "sciences-sante",
+		"label": "Sciences de la santé"
+	}]
+}

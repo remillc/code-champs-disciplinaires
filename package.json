@@ -1,0 +1,19 @@
+{
+	"name": "code-champs-disciplinaires",
+	"version": "0.0.1",
+	"description": "Une liste des codes de champs disciplinaires des Bibliothèques de l'Université de Montréal.",
+	"main": "champs-disciplinaires.json",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/remillc/code-champs-disciplinaires.git"
+	},
+	"author": {
+		"name": "Christian Rémillard",
+		"email": "christian.remillard@gmail.com"
+	},
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/remillc/code-champs-disciplinaires/issues"
+	},
+	"homepage": "https://github.com/remillc/code-champs-disciplinaires"
+}
