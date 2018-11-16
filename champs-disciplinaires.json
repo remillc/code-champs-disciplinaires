@@ -21,17 +21,17 @@
 		"key": "economie-politique-relations-industrielles",
 		"label": "Économie, politique, relations industrielles"
 	}, {
-		"key": "histoire-philosophie-religions",
-		"label": "Histoire, philosophie, religions"
+		"key": "education-psychoeducation",
+		"label": "Éducation, psychoéducation"
+	}, {
+		"key": "etudes-religieuses-histoire-philosophie",
+		"label": "Études religieuses, histoire, philosophie"
 	}, {
 		"key": "informatique-mathematique-sciences-nature",
 		"label": "Informatique, mathématiques, sciences de la nature"
 	}, {
 		"key": "langues-litteratures",
 		"label": "Langues et littératures"
-	}, {
-		"key": "psychoeducation-sciences-education",
-		"label": "Psychoéducation, sciences de l'éducation"
 	}, {
 		"key": "sciences-sante",
 		"label": "Sciences de la santé"
