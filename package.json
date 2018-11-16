@@ -1,6 +1,6 @@
 {
 	"name": "code-champs-disciplinaires",
-	"version": "0.0.2",
+	"version": "0.1.0",
 	"description": "Une liste des codes de champs disciplinaires des Bibliothèques de l'Université de Montréal.",
 	"main": "champs-disciplinaires.json",
 	"repository": {
